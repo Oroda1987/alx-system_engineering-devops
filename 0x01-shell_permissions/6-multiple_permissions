@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo +1:4 hellow
+chmod u+x g+x o+x hello
